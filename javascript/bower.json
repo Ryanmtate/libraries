@@ -1,0 +1,27 @@
+{
+  "name": "coinsparkJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/coinspark/libraries/javascript",
+  "authors": [
+    "Coin Sciences Ltd"
+  ],
+  "description": "bower package for CoinSpark JS library",
+  "main": "coinspark.js",
+  "scripts": [
+    "coinspark.js"
+  ],
+  "keywords": [
+    "Coloredcoins",
+    "bitcoins",
+    "OP_RETURN",
+    "CoinSpark"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
